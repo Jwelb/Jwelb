@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Engineer looking to <br>broaden my knowledge of the field of <br>technology. Eager to learn from<br> professionals to develop my <br>problem-solving skills and <br>technical ability.
+Aspiring Software Engineer looking to <br>broaden my knowledge of the field of <br>technology. Eager to learn from professionals to develop my <br>problem-solving skills and <br>technical ability.
 
 
 ## 🌐 Socials:
