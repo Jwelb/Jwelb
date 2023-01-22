@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordan Welborn</h1>
 <h3 align="center">An Aspiring Software Engineer!</h3>
 Aspiring Software Engineer looking to broaden my knowledge of the field of technology. Eager to learn from professionals to develop my problem-solving skills and technical ability.
-<img align ="right" alt="Coding" width ="400" src="https://www.techbabble.zone/content/images/size/w1000/2021/07/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jwelb&label=Profile%20views&color=0e75b6&style=flat" alt="jwelb" /> </p>
 
