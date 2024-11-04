@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Engineer looking to broaden my knowledge of the field of technology. Eager to learn from professionals to develop my problem-solving skills and technical ability.
+Aspiring Data Engineer looking to broaden my knowledge of the field of technology. Eager to learn from professionals to develop my problem-solving skills and technical ability.
 
 
 ## 🌐 Socials:
